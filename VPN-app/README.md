@@ -1,3 +1,7 @@
+```
+sudo apt install python3-pip
+pip install openvpn3
+```
 to run the vpn 
 ```
 python vpn.py
